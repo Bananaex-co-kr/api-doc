@@ -3,7 +3,7 @@
 ### WEBSOCKET API
 
 ``
-wss://socket.bananatok.co.kr/websocket
+wss://socket.bananaex.co.kr/websocket
 ``
 
 
